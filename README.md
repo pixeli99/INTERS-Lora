@@ -35,6 +35,11 @@ python finetune.py \
     --group_by_length
 ```
 
+### Generate (generate.py)
+```bash
+python generate.py --base_model='huggyllama/llama-7b'
+```
+
 ## Credits
 
 This project borrowed some code from the following sources:
